@@ -16,4 +16,4 @@ A README for my Bethel School of Technology Powered By WozU Final Project
 
 ## License & copyright
 
-© Matthew Gerardino
+&copy; Matthew Gerardino
